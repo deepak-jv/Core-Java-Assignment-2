@@ -1,4 +1,4 @@
-# Core-Java-Assignment-2
+# Core-Java-Assignment-2 Set A
 
 
 This assignment is based on core java concept.
